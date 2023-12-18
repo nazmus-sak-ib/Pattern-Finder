@@ -1,0 +1,63 @@
+C:\Users\BMD Director\Documents\Abby2 - Copy\bin\Debug\Numbers Picker.exe.config
+C:\Users\BMD Director\Documents\Abby2 - Copy\bin\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Abby2 - Copy\bin\Debug\Numbers Picker.pdb
+C:\Users\BMD Director\Documents\Abby2 - Copy\bin\Debug\Numbers Picker.xml
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Abby3.vbproj.AssemblyReference.cache
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Abby3.vbproj.SuggestedBindingRedirects.cache
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Abby3.vbproj.ResolveComReference.cache
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\NumbersPicker.Form1.resources
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\NumbersPicker.FormHelp.resources
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\NumbersPicker.Resources.resources
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Abby3.vbproj.GenerateResource.cache
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Abby3.vbproj.CoreCompileInputs.cache
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Numbers Picker.xml
+C:\Users\BMD Director\Documents\Abby2 - Copy\obj\Debug\Numbers Picker.pdb
+C:\Users\BMD Director\Documents\Abby Project 3\bin\Debug\Numbers Picker.exe.config
+C:\Users\BMD Director\Documents\Abby Project 3\bin\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Abby Project 3\bin\Debug\Numbers Picker.pdb
+C:\Users\BMD Director\Documents\Abby Project 3\bin\Debug\Numbers Picker.xml
+C:\Users\BMD Director\Documents\Abby Project 3\obj\Debug\Abby3.vbproj.AssemblyReference.cache
+C:\Users\BMD Director\Documents\Abby Project 3\obj\Debug\Abby3.vbproj.SuggestedBindingRedirects.cache
+C:\Users\BMD Director\Documents\Abby Project 3\obj\Debug\Abby3.vbproj.ResolveComReference.cache
+C:\Users\BMD Director\Documents\Abby Project 3\obj\Debug\NumbersPicker.Form1.resources
+C:\Users\BMD Director\Documents\Abby Project 3\obj\Debug\NumbersPicker.FormHelp.resources
+C:\Users\BMD Director\Documents\Abby Project 3\obj\Debug\NumbersPicker.Resources.resources
+C:\Users\BMD Director\Documents\Abby Project 3\obj\Debug\Abby3.vbproj.GenerateResource.cache
+C:\Users\BMD Director\Documents\Abby Project 3\obj\Debug\Abby3.vbproj.CoreCompileInputs.cache
+C:\Users\BMD Director\Documents\Abby Project 3\obj\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Abby Project 3\obj\Debug\Numbers Picker.xml
+C:\Users\BMD Director\Documents\Abby Project 3\obj\Debug\Numbers Picker.pdb
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\bin\Debug\Numbers Picker.exe.config
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\bin\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\bin\Debug\Numbers Picker.pdb
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\bin\Debug\Numbers Picker.xml
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\obj\Debug\Abby3.vbproj.AssemblyReference.cache
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\obj\Debug\Abby3.vbproj.SuggestedBindingRedirects.cache
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\obj\Debug\Abby3.vbproj.ResolveComReference.cache
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\obj\Debug\NumbersPicker.Form1.resources
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\obj\Debug\NumbersPicker.FormHelp.resources
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\obj\Debug\NumbersPicker.Resources.resources
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\obj\Debug\Abby3.vbproj.GenerateResource.cache
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\obj\Debug\Abby3.vbproj.CoreCompileInputs.cache
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\obj\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\obj\Debug\Numbers Picker.xml
+C:\Users\BMD Director\Documents\Abby\third\Abby Project 3\obj\Debug\Numbers Picker.pdb
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\bin\Debug\Numbers Picker.exe.config
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\bin\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\bin\Debug\Numbers Picker.pdb
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\bin\Debug\Numbers Picker.xml
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Abby3.vbproj.AssemblyReference.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Abby3.vbproj.SuggestedBindingRedirects.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Abby3.vbproj.ResolveComReference.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\NumbersPicker.Form1.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\NumbersPicker.FormPattern.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\NumbersPicker.FormHelp.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\NumbersPicker.Resources.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Abby3.vbproj.GenerateResource.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Abby3.vbproj.CoreCompileInputs.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Numbers Picker.exe
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Numbers Picker.xml
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Numbers Picker.pdb
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\NumbersPicker.PatternA.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\NumbersPicker.PatternC.resources

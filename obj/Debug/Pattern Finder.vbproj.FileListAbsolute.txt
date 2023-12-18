@@ -1,0 +1,18 @@
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\bin\Debug\Pattern Finder.exe.config
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\bin\Debug\Pattern Finder.exe
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\bin\Debug\Pattern Finder.pdb
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\bin\Debug\Pattern Finder.xml
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Pattern Finder.vbproj.AssemblyReference.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Pattern Finder.vbproj.SuggestedBindingRedirects.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Pattern Finder.vbproj.ResolveComReference.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\PatternFinder.Form1.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\PatternFinder.FormPattern.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\PatternFinder.FormHelp.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\PatternFinder.Resources.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\PatternFinder.PatternA.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\PatternFinder.PatternC.resources
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Pattern Finder.vbproj.GenerateResource.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Pattern Finder.vbproj.CoreCompileInputs.cache
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Pattern Finder.exe
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Pattern Finder.xml
+C:\Users\BMD Director\Documents\Sakib UW\Abby\03 Pattern Finder\Abby Project 3\obj\Debug\Pattern Finder.pdb
